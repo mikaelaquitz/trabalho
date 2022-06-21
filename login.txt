@@ -1,0 +1,2 @@
+administrador: e-mail:teste@teste.com senha:12345678
+cliente: e-mail:karlarufino@mail.com senha:12345678
